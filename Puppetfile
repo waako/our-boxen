@@ -94,6 +94,4 @@ github "daisy_disk"
 github "sequel_pro"
 github "dashlane"
 github "zsh"
-
-
-
+github "xscope"
